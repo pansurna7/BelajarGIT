@@ -10,4 +10,7 @@ console.log(multyplay(2,2));
 const devide= (a,b) => a/b;
 console.log(devide(10,2));
 
+console.log(add(5,5));
+
+
 
